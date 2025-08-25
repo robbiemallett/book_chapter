@@ -36,20 +36,33 @@ Academic Publishing Group
 There was then a followup email to all authors:
 
 ```
-Dear All,
+From: Scholl, Summers <sscholl@wiley.com>
+Date: Monday, March 14, 2022 at 9:18 AM
+To: Lin, Jialin <lin.789@osu.edu>
+Cc: Jenny Lunn <jlunn@agu.org>
+Subject: Follow up regarding Earth’s Climate and Weather
+
+Dear Dr. Lin,
  
-I realize this news may be surprising and certainly disappointing.  In view of all the hard work that went into the book, the decision not to publish was not made lightly.  Allow me to explain:
+On behalf of Wiley, allow me to apologize for the communications surrounding your book project,Earth’s Climate and
+ Weather: Dominant Variability and Disastrous Extremes.  I am part of the Wiley team, including Noel McGlinchey and
+ Lesley Fenske, working on the AGU publishing partnership—picking up from Dr. Ritu Bose, with whom you began this
+ project.  I understand from Dr. Kate Lajtha that, based on the review of the submitted manuscript chapters, the AGU
+ has decided to remove your project from their portfolio.  I was briefed on the communications by Wiley and AGU to you
+ and regret if, at any time, communications were sub-optimal. 
  
-In the course of reviewing the submitted chapters, AGU determined that several chapters required revision.  The opportunity to revise was given to the responsible authors, but unfortunately, even after such revision, the subsequent versions remained unacceptable. Issues included scientific inaccuracies, conceptual disorganization, under- and over-citation, substandard analyses, and lack of clarity in figures.  These issues, and the significance of these chapters, particularly their critical role in framing the book and supporting other chapters, led to the decision not to publish.  AGU initially communicated the decision to remove the book from the AGU imprint to Dr. Lin in February.  Wiley was briefed on AGU’s review process and communications.  In light of AGU’S decision not to publish, which was based on the status of these key chapters, and the fact that the chapters were still not of a publishable quality, Wiley also decided not to publish the volume.  Dr. Lin’s contract specifically states, in part, that “[i]n the event that the Publisher determines that the necessary revisions would be so extensive and fundamental that a satisfactory and timely revision would not be feasible, the Publisher shall have the right to deem the Work unsatisfactory without requesting changes and to terminate the Agreement.” 
+I appreciate that a lot of hard work went into this project, but having read the reviews, responses, and current state
+ of key chapters, I must inform you that Wiley will also decline to publish the volume.  Our decision falls under
+ Section 1.5 of your publishing agreement.  I’m truly sorry we could not move forward to publication.  While our decision
+ is final, if you would like to speak more about it, I can offer a call among AGU and Wiley this week.  If I don’t hear
+ from you on or before March 17, I’ll assume you do not wish to have that call. 
  
-I’m sorry we could not find a way to publication, especially for such an important topic involving so many high caliber scientists.  You will be sent letters reverting the rights to your chapters back to you and you may, of course, submit them for publication elsewhere as you see fit.  If you would like AGU to send the full review packet for your chapter to another publisher (i.e., the editorial contact for journals or books), please email books@agu.org. 
+I will be sending you a formal termination letter, and your contributors will be notified of their rights to publish elsewhere.
  
 Best regards,
 Summers
 ___________________________
 Summers Scholl
-(she/her)
-Executive Editor, Physical Sciences
 ```
 
 ### The lesson here is *do not write a book chapter* unless you are certain the book will be published! Even if there are many highly capable scientists on the list of authors, the book will succeed or fail depending on the *least capable* (since it is the lowest quality chapters that dictate the decision to move forward). 
